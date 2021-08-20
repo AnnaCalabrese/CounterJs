@@ -17,7 +17,7 @@ To immediately use the counter you can click on the Netlify link and it will ope
 
 
 ## :checkered_flag: Starting ##
-<a href src="https://annacalabresecounter.netlify.app/">https://annacalabresecounter.netlify.app/</a>
+<a href src="https://counter-project-js.netlify.app/">https://counter-project-js.netlify.app/</a>
 
 
 ## :memo: Contact ##
