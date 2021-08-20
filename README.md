@@ -4,6 +4,9 @@
 In this project you can find a simple counter with +/- buttons that let you increase or decrease the number which is set as 0 by default.
 This was made to complete the Start2impact "Javascript Basics" Superguide.
 
+## ⬇️ Screenshot
+![Screenshot 2021-08-20 at 11-20-21 Anna Calabrese Counter](https://user-images.githubusercontent.com/81150424/130211506-53e1c850-8c10-48a6-8cb4-8e4e10d07e93.png)
+
 
 ## :rocket: Built with ##
 - HTML
